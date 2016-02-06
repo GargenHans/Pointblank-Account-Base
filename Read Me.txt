@@ -1,0 +1,11 @@
+Hello there, this is my tool for sharing account
+The main idea of the tool is that, players can share their accounts, so that other players can see what accounts are for sale,
+and they'll be able to find the owner of the account so easily, so that they can buy it.
+
+The tool depend mainly on the " FTP SERVER ", no third party- dll/lib used.
+
+Programming Lanuage = VB .NET
+Programmer = Gargen Hans, aka , DEMONKINGLBH( My Nick Name :D)
+
+Kind Regards,
+mfg DEMONKINGLBH

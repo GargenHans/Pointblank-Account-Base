@@ -1,0 +1,13 @@
+C:\Users\DEMON\Desktop\Projects\Pointblank Account Base\Pointblank Account Base\bin\Debug\Pointblank Account Base.exe.config
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\bin\Debug\Pointblank Account Base.exe
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\bin\Debug\Pointblank Account Base.pdb
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\bin\Debug\Pointblank Account Base.xml
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\obj\Debug\Pointblank Account Base.vbprojResolveAssemblyReference.cache
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\obj\Debug\Pointblank_Account_Base.Resources.resources
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\obj\Debug\Pointblank Account Base.vbproj.GenerateResource.Cache
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\obj\Debug\Pointblank Account Base.exe
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\obj\Debug\Pointblank Account Base.xml
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\obj\Debug\Pointblank Account Base.pdb
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\PointBlank Account Base\obj\Debug\Pointblank_Account_Base.MainV.resources
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\Pointblank Account Base\obj\Debug\Pointblank_Account_Base.SellAccount.resources
+C:\Users\DEMON\Desktop\Projects\PointBlank Account Base\Pointblank Account Base\obj\Debug\Pointblank_Account_Base.ImageViewer.resources
